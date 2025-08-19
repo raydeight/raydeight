@@ -1,7 +1,7 @@
 # Hello
 
-Name: John D.
-Title: Electrical and Computer Engineer
+Name: John D. <br>
+Title: Electrical and Computer Engineer <br>
 
 Repositories:
 [Embedded](https://github.com/raydeight/Embedded)
