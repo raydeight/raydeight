@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hello
+=
+Name: John D.
+Title: Electrical and Computer Engineer
+
+
 
 <!--
 **raydeight/raydeight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
